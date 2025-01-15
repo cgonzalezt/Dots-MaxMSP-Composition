@@ -1,4 +1,4 @@
-#Dots!
+# Dots!
 
 As part of my Live Electronics and Sound Art class, I was tasked with creating an audio-visual composition in MaxMSP.
 
